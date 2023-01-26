@@ -1,0 +1,11 @@
+D:\Nueva carpeta\jueves2623\bin\Debug\jueves2623.exe.config
+D:\Nueva carpeta\jueves2623\bin\Debug\jueves2623.exe
+D:\Nueva carpeta\jueves2623\bin\Debug\jueves2623.pdb
+D:\Nueva carpeta\jueves2623\obj\Debug\jueves2623.csproj.AssemblyReference.cache
+D:\Nueva carpeta\jueves2623\obj\Debug\jueves2623.csproj.SuggestedBindingRedirects.cache
+D:\Nueva carpeta\jueves2623\obj\Debug\jueves2623.Form1.resources
+D:\Nueva carpeta\jueves2623\obj\Debug\jueves2623.Properties.Resources.resources
+D:\Nueva carpeta\jueves2623\obj\Debug\jueves2623.csproj.GenerateResource.cache
+D:\Nueva carpeta\jueves2623\obj\Debug\jueves2623.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\jueves2623\obj\Debug\jueves2623.exe
+D:\Nueva carpeta\jueves2623\obj\Debug\jueves2623.pdb
